@@ -5,7 +5,8 @@ For windows
 
 ```
 git clone https://github.com/SarthakNarayan/react-app.git
-cd react-app && rmdir /s /q .git && npm install
+cd react-app && npm install
+rmdir /s /q .git
 ```
 
 For linux
