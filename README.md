@@ -16,3 +16,5 @@ For linux
 git clone https://github.com/SarthakNarayan/react-app.git .
 rm -rf .git && npm install
 ```
+
+Don't forget to change the name in package.json with the name of your current folder
